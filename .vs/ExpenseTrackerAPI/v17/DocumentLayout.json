@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9D59277-0535-4845-B27D-463948F4923F}|ExpenseTracker.Test\\ExpenseTracker.Test.csproj|c:\\users\\nived\\onedrive\\documents\\learning\\asp.net core\\expensetrackerapi\\expensetracker.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9D59277-0535-4845-B27D-463948F4923F}|ExpenseTracker.Test\\ExpenseTracker.Test.csproj|solutionrelative:expensetracker.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5A2464-128B-4FEB-9C5C-86E5E9C215C8}|ExpenseTrackerAPI\\ExpenseTrackerAPI.csproj|c:\\users\\nived\\onedrive\\documents\\learning\\asp.net core\\expensetrackerapi\\expensetrackerapi\\expensetrackerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BC5A2464-128B-4FEB-9C5C-86E5E9C215C8}|ExpenseTrackerAPI\\ExpenseTrackerAPI.csproj|solutionrelative:expensetrackerapi\\expensetrackerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71442C58-5E16-427E-97F4-89E5A88AC57D}|ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj|c:\\users\\nived\\onedrive\\documents\\learning\\asp.net core\\expensetrackerapi\\expensetracker.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71442C58-5E16-427E-97F4-89E5A88AC57D}|ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj|solutionrelative:expensetracker.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D139F8E-C1C0-4726-B613-1F88D642E6D9}|ExpenseTracker.Services\\ExpenseTracker.Services.csproj|c:\\users\\nived\\onedrive\\documents\\learning\\asp.net core\\expensetrackerapi\\expensetracker.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D139F8E-C1C0-4726-B613-1F88D642E6D9}|ExpenseTracker.Services\\ExpenseTracker.Services.csproj|solutionrelative:expensetracker.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E115649-1441-4974-98C8-74350EF5252B}|ExpenseTracker.Repositories\\ExpenseTracker.Repositories.csproj|c:\\users\\nived\\onedrive\\documents\\learning\\asp.net core\\expensetrackerapi\\expensetracker.repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E115649-1441-4974-98C8-74350EF5252B}|ExpenseTracker.Repositories\\ExpenseTracker.Repositories.csproj|solutionrelative:expensetracker.repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973DA770-96E1-438C-AF8F-7ED2A7D3D297}|ExpenseTracker.DTO\\ExpenseTracker.DTO.csproj|c:\\users\\nived\\onedrive\\documents\\learning\\asp.net core\\expensetrackerapi\\expensetracker.dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973DA770-96E1-438C-AF8F-7ED2A7D3D297}|ExpenseTracker.DTO\\ExpenseTracker.DTO.csproj|solutionrelative:expensetracker.dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Test\\UnitTest1.cs",
+              "RelativeToolTip": "ExpenseTracker.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:56:13.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Entities\\Class1.cs",
+              "ToolTip": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Entities\\Class1.cs",
+              "RelativeToolTip": "ExpenseTracker.Entities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:54:34.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Services\\Class1.cs",
+              "RelativeToolTip": "ExpenseTracker.Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:54:11.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseTrackerAPI",
+              "DocumentMoniker": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTrackerAPI\\ExpenseTrackerAPI.csproj",
+              "RelativeDocumentMoniker": "ExpenseTrackerAPI\\ExpenseTrackerAPI.csproj",
+              "ToolTip": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTrackerAPI\\ExpenseTrackerAPI.csproj",
+              "RelativeToolTip": "ExpenseTrackerAPI\\ExpenseTrackerAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-28T14:44:47.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Repositories\\Class1.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Repositories\\Class1.cs",
+              "ToolTip": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Repositories\\Class1.cs",
+              "RelativeToolTip": "ExpenseTracker.Repositories\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:53:38.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.DTO\\Class1.cs",
+              "ToolTip": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.DTO\\Class1.cs",
+              "RelativeToolTip": "ExpenseTracker.DTO\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:52:58.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

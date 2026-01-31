@@ -1,0 +1,11 @@
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Services\bin\Debug\net8.0\ExpenseTracker.Services.deps.json
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Services\bin\Debug\net8.0\ExpenseTracker.Services.dll
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Services\bin\Debug\net8.0\ExpenseTracker.Services.pdb
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Services\obj\Debug\net8.0\ExpenseTracker.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Services\obj\Debug\net8.0\ExpenseTracker.Services.AssemblyInfoInputs.cache
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Services\obj\Debug\net8.0\ExpenseTracker.Services.AssemblyInfo.cs
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Services\obj\Debug\net8.0\ExpenseTracker.Services.csproj.CoreCompileInputs.cache
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Services\obj\Debug\net8.0\ExpenseTracker.Services.dll
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Services\obj\Debug\net8.0\refint\ExpenseTracker.Services.dll
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Services\obj\Debug\net8.0\ExpenseTracker.Services.pdb
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Services\obj\Debug\net8.0\ref\ExpenseTracker.Services.dll
