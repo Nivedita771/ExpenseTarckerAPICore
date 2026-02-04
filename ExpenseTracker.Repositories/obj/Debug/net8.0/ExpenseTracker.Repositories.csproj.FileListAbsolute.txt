@@ -9,3 +9,5 @@ C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\Expens
 C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Repositories\obj\Debug\net8.0\refint\ExpenseTracker.Repositories.dll
 C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseTracker.Repositories.pdb
 C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Repositories\obj\Debug\net8.0\ref\ExpenseTracker.Repositories.dll
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseTracker.Repositories.csproj.AssemblyReference.cache
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseTracker.Repositories.sourcelink.json

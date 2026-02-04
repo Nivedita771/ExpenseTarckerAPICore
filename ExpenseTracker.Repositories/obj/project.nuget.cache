@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0Uhch3PsNDg=",
+  "dgSpecHash": "q6v8BrRM3P8=",
   "success": true,
   "projectFilePath": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Repositories\\ExpenseTracker.Repositories.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nived\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.2\\microsoft.extensions.dependencyinjection.abstractions.10.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

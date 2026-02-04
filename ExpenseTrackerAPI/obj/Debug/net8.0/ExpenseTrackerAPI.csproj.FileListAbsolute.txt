@@ -33,3 +33,4 @@ C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\Expens
 C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTrackerAPI\obj\Debug\net8.0\ExpenseTrackerAPI.pdb
 C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTrackerAPI\obj\Debug\net8.0\ExpenseTrackerAPI.genruntimeconfig.cache
 C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTrackerAPI\obj\Debug\net8.0\ref\ExpenseTrackerAPI.dll
+C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTrackerAPI\obj\Debug\net8.0\ExpenseTrackerAPI.sourcelink.json
