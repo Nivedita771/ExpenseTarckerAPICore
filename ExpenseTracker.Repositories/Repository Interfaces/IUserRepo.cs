@@ -8,5 +8,7 @@ namespace ExpenseTracker.Repositories.Repository_Interfaces
         Task<User> RegisterAsync(User user);
         Task<User?> LoginAsync(string username, string password);
         Task<bool> UserExistsAsync(string username);
+        Task UpdateUserAsync(User user);
+        Task<User?> GetByUserNameAsync(string username);
     }
 }

@@ -11,7 +11,7 @@ namespace ExpenseTracker.Repositories.RepoUtilities
         public static readonly string RegisterUser = "[dbo].[RegisterUser]";
         public static readonly string ValidateUser = "[dbo].[ValidateUser]";
         public static readonly string CheckUserNameExists = "[dbo].[CheckUserNameExists]";
-      //  public static readonly string RegisterUser = "[dbo].[RegisterUser]";
+        public static readonly string UpdateUser = "[dbo].[UpdateUser]";
 
     }
 }

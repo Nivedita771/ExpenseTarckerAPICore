@@ -11,7 +11,8 @@ namespace ExpenseTracker.Repositories.RepoUtilities
         public static readonly string UserName = "UserName";
         public static readonly string Email = "Email";
         public static readonly string Password = "Password";
-      //  public static readonly string UserName = "UserName";
+        public static readonly string UserId = "UserId";
+        public static readonly string RoleId = "RoleId";
 
     }
     internal static class DBConstants

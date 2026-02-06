@@ -33,5 +33,23 @@ namespace ExpenseTracker.Services.Services
             User? user = await _userRepo.LoginAsync(username, password);
             return user is null ? null : _mapper.Map<UserDTO>(user);
         }
+
+        public Task<bool> UserExistsAsync(string username)
+        { 
+            return _userRepo.UserExistsAsync(username);
+        }
+        public async Task UpdateUserAsync(UpdateUserDTO userDto)
+        {
+            if (userDto == null) throw new ArgumentNullException(nameof(userDto));
+
+            var existing = await _userRepo.GetByUserNameAsync(userDto.UserName);
+
+            // If a user exists with the same username and different id -> conflict
+            if (existing != null && existing.UserId != userDto.UserId)
+                throw new InvalidOperationException("Username is already in use by another user.");
+
+            var entity = _mapper.Map<User>(userDto);
+            await _userRepo.UpdateUserAsync(entity);
+        }
     }
 }
