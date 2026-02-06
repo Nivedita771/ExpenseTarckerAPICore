@@ -8,13 +8,12 @@ namespace ExpenseTracker.Repositories.RepoUtilities
 {
     internal static class DBConfiguration
     {
-        public static string GetConnection
+        public static string ConnectionString
         {
             get
             {
-                return "";
+                return "Data Source=.; Initial Catalog=ExpenseTrack; Integrated Security=True";
             }
-        }
         }
     }
 }

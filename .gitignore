@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+
+# Build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.cache
+
+# Logs
+*.log
+
+# Environment-specific config (optional)
+appsettings.Development.json
+
+# Database / SSDT artifacts
+*.db
+*.mdf
+*.ldf
+*.jfm
+*.dbmdl
+
+# SQL Server Database Project build output
+**/bin/
+**/obj/

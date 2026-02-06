@@ -11,3 +11,19 @@ C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\Expens
 C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Repositories\obj\Debug\net8.0\ref\ExpenseTracker.Repositories.dll
 C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseTracker.Repositories.csproj.AssemblyReference.cache
 C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseTracker.Repositories.sourcelink.json
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\bin\Debug\net8.0\ExpenseTracker.Repositories.deps.json
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\bin\Debug\net8.0\ExpenseTracker.Repositories.dll
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\bin\Debug\net8.0\ExpenseTracker.Repositories.pdb
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\bin\Debug\net8.0\ExpenseTracker.Entities.dll
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\bin\Debug\net8.0\ExpenseTracker.Entities.pdb
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseTracker.Repositories.csproj.AssemblyReference.cache
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseTracker.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseTracker.Repositories.AssemblyInfoInputs.cache
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseTracker.Repositories.AssemblyInfo.cs
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseTracker.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseTracker.Repositories.sourcelink.json
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseT.D3F621EB.Up2Date
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseTracker.Repositories.dll
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\obj\Debug\net8.0\refint\ExpenseTracker.Repositories.dll
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\obj\Debug\net8.0\ExpenseTracker.Repositories.pdb
+C:\Users\nived\Documents\Learning\Core\ExpenseTarckerAPICore\ExpenseTracker.Repositories\obj\Debug\net8.0\ref\ExpenseTracker.Repositories.dll

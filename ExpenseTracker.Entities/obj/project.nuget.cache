@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/zB+6L6At2k=",
+  "dgSpecHash": "K2/QABCRVxs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj",
+  "projectFilePath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

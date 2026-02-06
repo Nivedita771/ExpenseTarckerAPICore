@@ -11,7 +11,6 @@ BEGIN
             @TotalExpense DECIMAL(18,2),
             @EmailBody NVARCHAR(MAX);
 
-    -- Cursor declaration
     DECLARE user_cursor CURSOR FOR
         SELECT 
             el.UserId, 
@@ -39,16 +38,15 @@ BEGIN
                                 + CAST(@LimitAmount AS NVARCHAR) + '. Your total expenses so far is ' 
                                 + CAST(@TotalExpense AS NVARCHAR) + '.<br/><br/>Please review your expenses.';
 
-                EXEC msdb.dbo.sp_send_dbmail
-                    @profile_name = 'ExpenseTrackerProfile',
-                    @recipients = @UserEmail,
-                    @subject = 'Expense Limit Exceeded',
-                    @body = @EmailBody,
-                    @body_format = 'HTML';
+                --EXEC msdb.dbo.sp_send_dbmail
+                --    @profile_name = 'ExpenseTrackerProfile',
+                --    @recipients = @UserEmail,
+                --    @subject = 'Expense Limit Exceeded',
+                --    @body = @EmailBody,
+                --    @body_format = 'HTML';
             END
         END TRY
         BEGIN CATCH
-            -- Log errors for individual user processing
             INSERT INTO ErrorLog (ErrorMessage, ErrorProcedure, ErrorLine)
             VALUES (
                 ERROR_MESSAGE(),

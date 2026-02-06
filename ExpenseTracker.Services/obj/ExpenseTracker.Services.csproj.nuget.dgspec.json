@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Services\\ExpenseTracker.Services.csproj": {}
+    "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Services\\ExpenseTracker.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.DTO\\ExpenseTracker.DTO.csproj": {
+    "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.DTO\\ExpenseTracker.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.DTO\\ExpenseTracker.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.DTO\\ExpenseTracker.DTO.csproj",
         "projectName": "ExpenseTracker.DTO",
-        "projectPath": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.DTO\\ExpenseTracker.DTO.csproj",
+        "projectPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.DTO\\ExpenseTracker.DTO.csproj",
         "packagesPath": "C:\\Users\\nived\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.DTO\\obj\\",
+        "outputPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Repositories\\ExpenseTracker.Repositories.csproj": {
+    "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Repositories\\ExpenseTracker.Repositories.csproj",
-        "projectName": "ExpenseTracker.Repositories",
-        "projectPath": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Repositories\\ExpenseTracker.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj",
+        "projectName": "ExpenseTracker.Entities",
+        "projectPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj",
         "packagesPath": "C:\\Users\\nived\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Repositories\\obj\\",
+        "outputPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -114,7 +114,96 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Repositories\\ExpenseTracker.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Repositories\\ExpenseTracker.Repositories.csproj",
+        "projectName": "ExpenseTracker.Repositories",
+        "projectPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Repositories\\ExpenseTracker.Repositories.csproj",
+        "packagesPath": "C:\\Users\\nived\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nived\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj": {
+                "projectPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[10.0.2, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[10.0.2, )"
@@ -140,14 +229,14 @@
         }
       }
     },
-    "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Services\\ExpenseTracker.Services.csproj": {
+    "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Services\\ExpenseTracker.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Services\\ExpenseTracker.Services.csproj",
+        "projectUniqueName": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Services\\ExpenseTracker.Services.csproj",
         "projectName": "ExpenseTracker.Services",
-        "projectPath": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Services\\ExpenseTracker.Services.csproj",
+        "projectPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Services\\ExpenseTracker.Services.csproj",
         "packagesPath": "C:\\Users\\nived\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Services\\obj\\",
+        "outputPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -168,11 +257,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.DTO\\ExpenseTracker.DTO.csproj": {
-                "projectPath": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.DTO\\ExpenseTracker.DTO.csproj"
+              "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.DTO\\ExpenseTracker.DTO.csproj": {
+                "projectPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.DTO\\ExpenseTracker.DTO.csproj"
               },
-              "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Repositories\\ExpenseTracker.Repositories.csproj": {
-                "projectPath": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Repositories\\ExpenseTracker.Repositories.csproj"
+              "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj": {
+                "projectPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj"
+              },
+              "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Repositories\\ExpenseTracker.Repositories.csproj": {
+                "projectPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Repositories\\ExpenseTracker.Repositories.csproj"
               }
             }
           }
@@ -195,7 +287,11 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[16.0.0, )"
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
             },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",

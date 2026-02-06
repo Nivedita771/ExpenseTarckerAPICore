@@ -8,6 +8,14 @@ namespace ExpenseTracker.Repositories.RepoUtilities
 {
     internal static class DBParameters
     {
-        public static readonly string DB_Connection_String = "DB_Connection_String";
+        public static readonly string UserName = "UserName";
+        public static readonly string Email = "Email";
+        public static readonly string Password = "Password";
+      //  public static readonly string UserName = "UserName";
+
+    }
+    internal static class DBConstants
+    {
+        public static readonly string ConnectionString = "ConnectionString";
     }
 }

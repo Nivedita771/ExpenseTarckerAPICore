@@ -9,7 +9,7 @@ namespace ExpenseTracker.Services.Service_Interfaces
 {
     public interface IUserService
     {
-        Task<User> RegisterAsync(User user, string password);
-        Task<User?> LoginAsync(string username, string password);
+        Task<UserDTO> RegisterAsync(CreateUserDTO user);
+        Task<UserDTO?> LoginAsync(string username, string password);
     }
 }

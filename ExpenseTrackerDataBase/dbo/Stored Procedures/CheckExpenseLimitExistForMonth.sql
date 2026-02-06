@@ -1,10 +1,24 @@
-﻿create procedure CheckExpenseLimitExistForMonth
-(@userid int,
-@month int,
-@year int)
-as
-begin
+﻿CREATE procedure CheckExpenseLimitExistForMonth
+(
+    @userid INT,
+    @month INT,
+    @year INT
+)
+AS
+BEGIN
+    SET NOCOUNT ON;
 
-select count(*) from ExpenseLimit 
-where UserId=@userid and LimitYear=@year and LimitMonth=@month
-end
+    BEGIN TRY
+        SELECT COUNT(*) FROM ExpenseLimit 
+        WHERE UserId = @userid AND LimitYear = @year AND LimitMonth = @month;
+    END TRY
+    BEGIN CATCH
+        INSERT INTO ErrorLog (ErrorMessage, ErrorProcedure, ErrorLine)
+        VALUES (
+            ERROR_MESSAGE(),
+            ERROR_PROCEDURE(),
+            ERROR_LINE()
+        );
+        -- THROW;
+    END CATCH
+END

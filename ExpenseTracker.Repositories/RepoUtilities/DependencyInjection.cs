@@ -8,10 +8,10 @@ namespace ExpenseTracker.Repositories.RepoUtilities
 {
     public static class DependencyInjection
     {
-        public static IServiceCollection AddExpenseTrackerRepositories(this IServiceCollection serviceCollection)
+        public static IServiceCollection AddExpenseTrackerRepositories(this IServiceCollection service)
         {
-            serviceCollection.AddScoped<IUserRepo, UserRepo>();
-            return serviceCollection;
+            service.AddScoped<IUserRepo, UserRepo>();
+            return service;
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace ExpenseTracker.DTO
+﻿namespace ExpenseTracker.Entities
 {
     public class User
     {
@@ -8,6 +8,6 @@
         public string RoleName { get; set; }
         public int RoleId { get; set; }
         public string Email { get; set; }
-
+        public bool isActive { get; set; }
     }
 }

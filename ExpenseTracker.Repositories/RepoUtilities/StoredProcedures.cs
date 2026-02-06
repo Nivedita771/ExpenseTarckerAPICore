@@ -8,6 +8,10 @@ namespace ExpenseTracker.Repositories.RepoUtilities
 {
     internal static class StoredProcedures
     {
-        public static readonly string SP_GetAllExpenses = "SP_GetAllExpenses";
+        public static readonly string RegisterUser = "[dbo].[RegisterUser]";
+        public static readonly string ValidateUser = "[dbo].[ValidateUser]";
+        public static readonly string CheckUserNameExists = "[dbo].[CheckUserNameExists]";
+      //  public static readonly string RegisterUser = "[dbo].[RegisterUser]";
+
     }
 }

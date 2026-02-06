@@ -1,26 +1,37 @@
-﻿using ExpenseTracker.Services.Service_Interfaces;
+﻿using AutoMapper;
 using ExpenseTracker.DTO;
+using ExpenseTracker.Entities;
+using ExpenseTracker.Repositories.Repository_Interfaces;
+using ExpenseTracker.Services.Service_Interfaces;
+using System;
+using System.Threading.Tasks;
 
 namespace ExpenseTracker.Services.Services
 {
     public class UserService : IUserService
     {
-        public async Task<User> RegisterAsync(User user, string password)
+        private readonly IUserRepo _userRepo;
+        private readonly IMapper _mapper;
+        public UserService(IUserRepo userRepo, IMapper mapper)
         {
-            // TODO: Add logic to hash password, validate user, and save to database
-            user.Password = password; // Replace with real hashing
-            // Save user to database (not implemented)
-            return await Task.FromResult(user);
+            _userRepo = userRepo;
+            _mapper = mapper;
         }
 
-        public async Task<User?> LoginAsync(string username, string password)
+        public async Task<UserDTO> RegisterAsync(CreateUserDTO user)
         {
-            // TODO: Add logic to retrieve user, verify password, and return user if valid
-            if (username == "test" && password == "password")
-            {
-                return await Task.FromResult(new User { UserName = username });
-            }
-            return null;
+            if (await _userRepo.UserExistsAsync(user.UserName))
+                throw new InvalidOperationException("User already exists.");
+
+            User userEntity = _mapper.Map<User>(user);
+            User savedData = await _userRepo.RegisterAsync(userEntity);
+            return _mapper.Map<UserDTO>(savedData);
+        }
+
+        public async Task<UserDTO?> LoginAsync(string username, string password)
+        {
+            User? user = await _userRepo.LoginAsync(username, password);
+            return user is null ? null : _mapper.Map<UserDTO>(user);
         }
     }
 }

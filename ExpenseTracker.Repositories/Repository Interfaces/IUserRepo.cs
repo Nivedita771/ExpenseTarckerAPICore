@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
+using ExpenseTracker.Entities;
 
 namespace ExpenseTracker.Repositories.Repository_Interfaces
 {
     public interface IUserRepo
     {
+        Task<User> RegisterAsync(User user);
+        Task<User?> LoginAsync(string username, string password);
+        Task<bool> UserExistsAsync(string username);
     }
 }

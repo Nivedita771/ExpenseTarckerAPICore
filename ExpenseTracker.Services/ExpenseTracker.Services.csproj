@@ -7,12 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AutoMapper" Version="16.0.0" />
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.2" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ExpenseTracker.DTO\ExpenseTracker.DTO.csproj" />
+    <ProjectReference Include="..\ExpenseTracker.Entities\ExpenseTracker.Entities.csproj" />
     <ProjectReference Include="..\ExpenseTracker.Repositories\ExpenseTracker.Repositories.csproj" />
   </ItemGroup>
 

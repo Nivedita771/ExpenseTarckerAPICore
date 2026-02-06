@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj": {}
+    "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj": {
+    "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj",
         "projectName": "ExpenseTracker.Entities",
-        "projectPath": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj",
+        "projectPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj",
         "packagesPath": "C:\\Users\\nived\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nived\\OneDrive\\Documents\\Learning\\ASP.net Core\\ExpenseTrackerAPI\\ExpenseTracker.Entities\\obj\\",
+        "outputPath": "C:\\Users\\nived\\Documents\\Learning\\Core\\ExpenseTarckerAPICore\\ExpenseTracker.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
