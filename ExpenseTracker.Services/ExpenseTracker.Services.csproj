@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ExpenseTracker.DTO\ExpenseTracker.DTO.csproj" />
     <ProjectReference Include="..\ExpenseTracker.Repositories\ExpenseTracker.Repositories.csproj" />
   </ItemGroup>
 

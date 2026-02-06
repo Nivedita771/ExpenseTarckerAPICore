@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [IIS APPPOOL\ExpenseTrackerAPI]
+    FROM WINDOWS WITH DEFAULT_DATABASE = [ExpenseTrack], DEFAULT_LANGUAGE = [us_english];
+

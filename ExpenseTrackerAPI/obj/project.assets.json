@@ -285,6 +285,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "AutoMapper": "16.0.0",
+          "ExpenseTracker.DTO": "1.0.0",
           "ExpenseTracker.Repositories": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.2"
         },

@@ -1,0 +1,88 @@
+06-02-2026 11:51:15	This log contains information about the import schema operation into project 'ExpenseTrackerDataBase' on computer 'LAPTOP-825ANTDE' by user 'nived'.
+06-02-2026 11:51:15	Import of database schema has started.
+06-02-2026 11:51:30	Gathering database credentials
+06-02-2026 11:51:30	Gathering database options
+06-02-2026 11:51:30	Gathering generic database scoped configuration option
+06-02-2026 11:51:30	Gathering users
+06-02-2026 11:51:30	Gathering roles
+06-02-2026 11:51:30	Gathering application roles
+06-02-2026 11:51:30	Gathering role memberships
+06-02-2026 11:51:30	Gathering filegroups
+06-02-2026 11:51:30	Gathering full-text catalogs
+06-02-2026 11:51:30	Gathering assemblies
+06-02-2026 11:51:30	Gathering certificates
+06-02-2026 11:51:30	Gathering asymmetric keys
+06-02-2026 11:51:30	Gathering symmetric keys
+06-02-2026 11:51:30	Gathering encrypted symmetric keys
+06-02-2026 11:51:30	Gathering schemas
+06-02-2026 11:51:30	Gathering XML schema collections
+06-02-2026 11:51:30	Gathering user-defined data types
+06-02-2026 11:51:30	Gathering user-defined types
+06-02-2026 11:51:30	Gathering table types
+06-02-2026 11:51:30	Gathering unique keys for table types
+06-02-2026 11:51:31	Gathering primary keys for table types
+06-02-2026 11:51:31	Gathering indexes for table types
+06-02-2026 11:51:31	Gathering check constraints for table types
+06-02-2026 11:51:31	Gathering default constraints for table types
+06-02-2026 11:51:31	Gathering partition functions
+06-02-2026 11:51:31	Gathering partition schemes
+06-02-2026 11:51:31	Gathering functions
+06-02-2026 11:51:31	Gathering encrypted functions
+06-02-2026 11:51:31	Gathering aggregates
+06-02-2026 11:51:31	Gathering procedures
+06-02-2026 11:51:31	Gathering encrypted procedures
+06-02-2026 11:51:31	Gathering tables
+06-02-2026 11:51:31	Gathering primary keys
+06-02-2026 11:51:31	Gathering unique constraints
+06-02-2026 11:51:31	Gathering foreign keys
+06-02-2026 11:51:32	Gathering default constraints
+06-02-2026 11:51:32	Gathering check constraints
+06-02-2026 11:51:32	Gathering views
+06-02-2026 11:51:32	Gathering encrypted views
+06-02-2026 11:51:32	Gathering indexes
+06-02-2026 11:51:32	Gathering statistics
+06-02-2026 11:51:32	Gathering full-text index stoplists
+06-02-2026 11:51:32	Gathering search property lists
+06-02-2026 11:51:32	Gathering search properties
+06-02-2026 11:51:32	Gathering full-text indexes
+06-02-2026 11:51:32	Gathering column store indexes
+06-02-2026 11:51:32	Gathering spatial indexes
+06-02-2026 11:51:32	Gathering XML indexes
+06-02-2026 11:51:32	Gathering Selective XML indexes
+06-02-2026 11:51:32	Gathering encrypted triggers
+06-02-2026 11:51:32	Gathering triggers
+06-02-2026 11:51:32	Gathering encrypted and clr ddl triggers
+06-02-2026 11:51:32	Gathering ddl triggers
+06-02-2026 11:51:32	Creating edge constraints
+06-02-2026 11:51:32	Gathering synonyms
+06-02-2026 11:51:32	Gathering defaults
+06-02-2026 11:51:32	Gathering data constraint uddt bindings
+06-02-2026 11:51:32	Gathering rules
+06-02-2026 11:51:32	Gathering data constraint uddt bindings
+06-02-2026 11:51:32	Gathering message types
+06-02-2026 11:51:32	Gathering queues
+06-02-2026 11:51:32	Gathering contracts
+06-02-2026 11:51:32	Gathering services
+06-02-2026 11:51:32	Gathering event notifications
+06-02-2026 11:51:32	Gathering remote service bindings
+06-02-2026 11:51:32	Gathering broker priorities
+06-02-2026 11:51:32	Gathering signatures
+06-02-2026 11:51:32	Gathering compression options
+06-02-2026 11:51:32	Gathering sequence types
+06-02-2026 11:51:32	Gathering security policies
+06-02-2026 11:51:32	Gather column encryption keys
+06-02-2026 11:51:32	Gathering column master keys
+06-02-2026 11:51:32	Gathering external data sources
+06-02-2026 11:51:32	Gathering external file formats
+06-02-2026 11:51:32	Gathering external tables
+06-02-2026 11:51:32	Gathering XML index compression options
+06-02-2026 11:51:32	Gathering extended properties
+06-02-2026 11:51:32	Gathering assemblies
+06-02-2026 11:51:32	Gathering credentials
+06-02-2026 11:51:32	Gathering logins
+06-02-2026 11:51:32	Gathering server audits
+06-02-2026 11:51:33	Scanning project for duplicate elements
+06-02-2026 11:51:34	Finished duplicate element processing
+06-02-2026 11:51:35	Finished importing database.
+06-02-2026 11:51:35	A summary of the import was saved to the following location: C:\Users\nived\OneDrive\Documents\Learning\ASP.net Core\ExpenseTrackerAPI\ExpenseTrackerDataBase\Import Schema Logs\ExpenseTrackerDataBa_20260206062115.log
+06-02-2026 11:51:35	Click Finish to continue...

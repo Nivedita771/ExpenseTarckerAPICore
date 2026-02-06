@@ -1,0 +1,2 @@
+﻿CREATE USER [IIS APPPOOL\ExpenseTrackerAPI] FOR LOGIN [IIS APPPOOL\ExpenseTrackerAPI];
+
